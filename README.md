@@ -13,17 +13,6 @@ status](https://travis-ci.org/AlexandraKapp/golemtest.svg?branch=master)](https:
 
 The goal of shinygolemtest is to …
 
-## Installation
-
-You can install the released version of shinygolemtest from
-[CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("shinygolemtest")
-```
-
-## Example
-
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
