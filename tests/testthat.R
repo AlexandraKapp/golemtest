@@ -1,4 +1,4 @@
 library(testthat)
-library(shinygolemtest)
+library(golemtest)
 
-test_check("shinygolemtest")
+test_check("golemtest")

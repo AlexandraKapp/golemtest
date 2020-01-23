@@ -1,4 +1,4 @@
-Package: shinygolemtest
+Package: golemtest
 Title: Shiny Golem Test
 Version: 0.0.0.9000
 Authors@R: person('AUTHOR_FIRST', 'AUTHOR_LAST', email = 'AUTHOR@MAIL.COM', role = c('cre', 'aut'))
@@ -7,9 +7,14 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: 
-    shiny, 
-    golem
-RoxygenNote: 6.1.0
+    shiny,
+    golem,
+    shinydashboard,
+    leaflet,
+    sf,
+    tibble,
+    osrm
+RoxygenNote: 7.0.2
 URL: https://github.com/AlexandraKapp/golemtest.git
 BugReports: https://github.com/AlexandraKapp/golemtest.git/issues
 Suggests: 
