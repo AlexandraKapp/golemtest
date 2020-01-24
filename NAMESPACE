@@ -2,10 +2,12 @@
 
 export(run_app)
 import(leaflet)
-import(readr)
 import(sf)
 import(shiny)
 import(shinydashboard)
 importFrom(golem,with_golem_options)
 importFrom(osrm,osrmIsochrone)
+importFrom(readr,col_character)
+importFrom(readr,col_double)
+importFrom(readr,read_csv)
 importFrom(shiny,shinyApp)

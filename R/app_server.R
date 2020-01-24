@@ -1,7 +1,7 @@
 #' @import shiny
 #' @import shinydashboard
 #' @import leaflet
-#' @import readr
+#' @importFrom readr col_character col_double read_csv
 #' @import sf
 #' @importFrom osrm osrmIsochrone
 
